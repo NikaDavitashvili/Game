@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\bin\Debug\Warrior_Game.exe.config
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\bin\Debug\Warrior_Game.exe
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\bin\Debug\Warrior_Game.pdb
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\obj\Debug\Warrior_Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\obj\Debug\Warrior_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\obj\Debug\Warrior_Game.exe
+C:\Users\User\source\repos\Warrior_Game\Warrior_Game\obj\Debug\Warrior_Game.pdb
